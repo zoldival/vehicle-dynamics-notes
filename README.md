@@ -8,7 +8,7 @@ working toward a model of yaw rate from things we can measure on the car (speed,
 
 | # | topic | status |
 |---|---|---|
-| 01 | [kinematic yaw rate](yaw-rate/01-kinematic.md) | done |
+| 01 | [kinematic yaw rate](yaw-rate/01-kinematic.md) | in progress |
 | 02 | [tire cornering forces](yaw-rate/02-tire-cornering.md) | in progress |
 | 03 | [understeer gradient](yaw-rate/03-understeer-gradient.md) | |
 | 04 | [load transfer](yaw-rate/04-load-transfer.md) | |
