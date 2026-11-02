@@ -114,6 +114,18 @@ r = V·δ/L, the kinematic model. a neutral steer car turns exactly like the geo
 **why does an understeering car have a "most responsive" speed?**
 the top of the equation (V/L) grows with speed, but the K·V² term on the bottom grows faster. at V_char they balance, and after that more speed gives less yaw per degree of steer.
 
+handwritten ones
+
+<img width="953" height="1232" alt="image" src="https://github.com/user-attachments/assets/8746e9ad-2dc2-4c68-8b18-da6a3d03e62c" />
+
+<img width="953" height="1232" alt="image" src="https://github.com/user-attachments/assets/a1d7527d-527d-4c8d-91dd-205b679000a3" />
+
+<img width="953" height="1232" alt="image" src="https://github.com/user-attachments/assets/abd52540-0fdc-4d52-831f-782395d1f27e" />
+
+<img width="953" height="1232" alt="image" src="https://github.com/user-attachments/assets/0a583050-933a-4235-a914-6cfa265421a6" />
+
+<img width="953" height="1232" alt="image" src="https://github.com/user-attachments/assets/e0812d53-1f2c-4e65-8fb2-e99e12b94a14" />
+
 ## sources
 
 - Gillespie, *Fundamentals of Vehicle Dynamics*, Ch 6 (PDF pp. 134–138)
