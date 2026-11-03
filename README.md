@@ -10,8 +10,8 @@ working toward a model of yaw rate from things we can measure on the car (speed,
 |---|---|---|
 | 01 | [kinematic yaw rate](yaw-rate/01-kinematic.md) | done |
 | 02 | [tire cornering forces](yaw-rate/02-tire-cornering.md) | done |
-| 03 | [understeer gradient](yaw-rate/03-understeer-gradient.md) | in progress |
-| 04 | [load transfer](yaw-rate/04-load-transfer.md) | |
+| 03 | [understeer gradient](yaw-rate/03-understeer-gradient.md) | done |
+| 04 | [load transfer](yaw-rate/04-load-transfer.md) | in progress |
 | 05 | [dynamic bicycle model](yaw-rate/05-bicycle-model.md) | |
 
 ## laptime sim
