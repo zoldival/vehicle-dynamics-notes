@@ -21,7 +21,7 @@ working toward a model of yaw rate from things we can measure on the car (speed,
 ## conventions
 
 - units: SI (m, s, N, kg), angles in radians unless marked
-- axes: [say which one you're using, SAE (z down) or ISO (z up)]
+- axes: SAE (x forward, y right, z down, right turn = positive yaw rate). slip angle follows Rajamani, so positive α gives positive Fy. note: FS-3 VDM logs x accel flipped and z reads +1 g at rest.
 
 | symbol | meaning |
 |---|---|
